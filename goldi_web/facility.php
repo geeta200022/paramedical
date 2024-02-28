@@ -178,7 +178,6 @@
     var FACEBOOK_APP_ID = '579360525479711';
     var FACEBOOK_APP_VERSION = 'v3.2';
     var GOOGLE_CLIENT_ID = '544984668822-l66ipmg9o5lpalcntjckr651vbo72tcv.apps.googleusercontent.com';
-    var GOOGLE_API_KEY = 'AIzaSyCkyUw3UxCwg618Bknm9vdoWnYWji4lQSM';
     var LANGUAGE = 'english';
     var language = 'english';
     var LANGUAGE_SHORT = 'en';
